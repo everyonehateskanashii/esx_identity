@@ -1,6 +1,7 @@
 body {
   overflow: hidden;
-	display: none;
+  display: none;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .signin {
